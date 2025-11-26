@@ -1,0 +1,8 @@
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.csproj.AssemblyReference.cache
+D:\esakay\Esakay\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.GeneratedMSBuildEditorConfig.editorconfig
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.AssemblyInfoInputs.cache
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.AssemblyInfo.cs
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.csproj.CoreCompileInputs.cache
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.MvcApplicationPartsAssemblyInfo.cs
+D:\esakay\Esakay\obj\Debug\net9.0\Esakay.MvcApplicationPartsAssemblyInfo.cache
